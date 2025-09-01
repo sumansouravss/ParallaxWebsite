@@ -9,7 +9,7 @@ html,body{
 
 }
 .pimg1{
-    background-image: url(images/image1.png);
+    background-image: url(image1.png);
     min-height: 100%;
     position:relative;
     background-position: center;
@@ -17,11 +17,11 @@ html,body{
     background-repeat: no-repeat;
 }
 .pimg2{
-    background-image: url(images/image2.png);
+    background-image: url(image2.png);
     min-height: 400px;
 }
 .pimg3{
-    background-image: url(images/image3.png);
+    background-image: url(image3.png);
     min-height: 400px;
 }
 .pimg1,
@@ -60,4 +60,5 @@ html,body{
 .section-dark{
     background: #282e34;
     color: #ddd;
+
 }
